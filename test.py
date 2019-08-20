@@ -1,3 +1,3 @@
 print "hello world"
-print "Shino-chan"
-print "shuto added"
+print "remove two lines"
+print "and add this comment"
